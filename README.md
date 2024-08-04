@@ -38,6 +38,13 @@ https://www.kaggle.com/datasets/mysarahmadbhat/pizza-place-sales
 10. Top 5 Pizza By Total Orders
 11. Bottom 5 Pizza By Total Orders
 
+---
+# FINDINGS
+A. Total Revenue for the year was $817,860
+B. Average Order Value was $38.31
+C. Total Pizzas Sold – 50,000
+D. Total Orders – 21,000
+E. Average Pizzas per Order – 2
 
 
 
