@@ -1,12 +1,12 @@
 # Pizza-Sales-Analysis-Portfolio-Project-SQL-Power-BI
+![piz](https://github.com/user-attachments/assets/6035f8c9-9765-4dad-8f9a-349d049dc3b9)
+
 Watch this project on Youtube at https://www.youtube.com/watch?v=eQ83-J57DZY
 
 The raw data for this project is presented in 4 CSV files. This data represents a year’s worth of sales for a pizza outlet, and they need to answer a few questions which will help them make important decisions to increase sales and improve their business.
 The project is done in Microsoft SQL server and presented in Power BI. The data was loaded into 4 tables. This project involves the use of simple joins and sub-queries.
 
+---
 
-SELECT 
- round(SUM(quantity * price), 2)
-FROM order_details AS o
- JOIN pizzas AS p 
- ON o.pizza_id = p.pizza_id
+
+
