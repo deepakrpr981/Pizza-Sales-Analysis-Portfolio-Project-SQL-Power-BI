@@ -17,6 +17,12 @@ https://www.kaggle.com/datasets/mysarahmadbhat/pizza-place-sales
 # QUESTIONS TO BE ANSWERED:
 
 ---
+# KPIs 
+1. Total Revenue (How much money did we make this year?)
+2. Average Order Value
+3. Total Pizzas Sold
+4. Total Orders
+5. Average Pizzas per Order
 
 
 
