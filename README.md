@@ -77,9 +77,27 @@ SELECT SUM(quantity) AS Total_pizza_sold FROM pizza_sales_1
 ```sql
 SELECT COUNT(DISTINCT order_id) AS Total_Orders FROM pizza_sales_1
 ```    
-
-
-
+5. Average Pizzas Per Order
+```sql
+SELECT CAST(CAST(SUM(quantity) AS DECIMAL(10,2)) / 
+CAST(COUNT(DISTINCT order_id) AS DECIMAL(10,2)) AS DECIMAL(10,2))
+AS Avg_Pizzas_per_order
+FROM pizza_sales_1
+```    
+7. Daily Trend for Total Orders
+   
+```sql
+SELECT DATENAME(DW, order_date) AS order_day, COUNT(DISTINCT order_id) AS total_orders 
+FROM pizza_sales_1
+GROUP BY DATENAME(DW, order_date)
+```    
+8. Monthly Trend for Orders
+```sql   
+select DATENAME(MONTH, order_date) as Month_Name, COUNT(DISTINCT order_id) as Total_Orders
+from pizza_sales_1
+GROUP BY DATENAME(MONTH, order_date)
+```
+9. D. % of Sales by Pizza Category
 
 
 
