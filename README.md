@@ -25,6 +25,20 @@ https://www.kaggle.com/datasets/mysarahmadbhat/pizza-place-sales
 5. Average Pizzas per Order
 
 ***
+# QUESTIONS TO ANSWER
+1. Daily Trends for Total Orders
+2. Hourly Trend for Total Orders
+3. Percentage of Sales by Pizza Category
+4. Percentage of Sales by Pizza Size
+5. Total Pizzas Sold by Pizza Category
+6. Top 5 Pizzas by Revenue
+7. Bottom 5 Pizzas by Revenue
+8. Top 5 Pizza By Quantity
+9. Bottom 5 Pizza By Quantity
+10. Top 5 Pizza By Total Orders
+11. Bottom 5 Pizza By Total Orders
+
+
 
 
 
