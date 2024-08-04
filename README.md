@@ -1,7 +1,4 @@
 # Pizza-Sales-Analysis-Portfolio-Project-SQL-Power-BI
-
-![OIP](https://github.com/user-attachments/assets/f5571a4d-16f2-4524-b571-5563ff4fe3f4)
-
 Watch this project on Youtube at https://www.youtube.com/watch?v=eQ83-J57DZY
 
 The raw data for this project is presented in 4 CSV files. This data represents a year’s worth of sales for a pizza outlet, and they need to answer a few questions which will help them make important decisions to increase sales and improve their business.
