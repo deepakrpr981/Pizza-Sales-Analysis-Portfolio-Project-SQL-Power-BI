@@ -1,5 +1,5 @@
 # Pizza-Sales-Analysis-Portfolio-Project-SQL-Power-BI
-![piz](https://github.com/user-attachments/assets/6035f8c9-9765-4dad-8f9a-349d049dc3b9)
+![Uploading OIP.jpg…]()
 
 Watch this project on Youtube at https://www.youtube.com/watch?v=eQ83-J57DZY
 
