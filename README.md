@@ -61,13 +61,25 @@ Even though the Brie Carre pizza is the worst seller, it recorded 490 pizzas sol
 
 ---
 Thanks
-
+1. Total Revenue:
 ```sql
-SELECT 
- round(SUM(quantity * price), 2)
-FROM order_details AS o
- JOIN pizzas AS p 
- ON o.pizza_id = p.pizza_id
-
+SELECT SUM(total_price) AS Total_Revenue FROM pizza_sales_1;
+```
+2. Average Order Value
 ```sql
+SELECT SUM(total_price) AS Total_Revenue FROM pizza_sales_1;
+```
+3. Total Pizzas Sold
+```sql
+SELECT SUM(quantity) AS Total_pizza_sold FROM pizza_sales_1
+``` 
+4. Total Orders
+```sql
+SELECT COUNT(DISTINCT order_id) AS Total_Orders FROM pizza_sales_1
+```    
+
+
+
+
+
 
