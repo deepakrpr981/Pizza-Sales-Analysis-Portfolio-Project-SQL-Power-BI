@@ -62,5 +62,12 @@ Even though the Brie Carre pizza is the worst seller, it recorded 490 pizzas sol
 ---
 Thanks
 
+```sql
+SELECT 
+ round(SUM(quantity * price), 2)
+FROM order_details AS o
+ JOIN pizzas AS p 
+ ON o.pizza_id = p.pizza_id
 
+```sql
 
