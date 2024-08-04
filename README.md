@@ -46,6 +46,14 @@ https://www.kaggle.com/datasets/mysarahmadbhat/pizza-place-sales
 4. Total Orders – 21,000
 5. Average Pizzas per Order – 2
 
+# ANSWER TO QUESTIONS
+1. The busiest days are Thursday (3239 orders), Friday (3538 orders) and Saturday (3158 orders). Most sales are recorded on Friday
+2. Most orders are placed between 12pm to 1pm, and 5pm to 7pm
+3. Classic pizza has the highest percentage sales (26.91%), followed by Supreme (25.46%), Chicken (23.96%) and Veggie (23.68%) pizzas
+4. Large size pizzas record the highest sales (45.89%) followed by medium (30.49%), then small (21.77%). XL and XXL only account for 1.72% and 0.12% respectively
+5. Classic Pizza accounts for the highest sales (14,888 pizzas) followed by Supreme (11,987 pizzas), Veggie (11,649 pizzas) and Chicken (11,050 pizzas)
+6. Top 5 Best Sellers are the Classic Deluxe (2453 pizzas), Barbecue Chicken (2432 pizzas), Hawaiian (2422), Peperoni (2418 pizzas) and Thai Chicken (2371 pizzas)
+7. Bottom 5 Worst Sellers are Brie Carre (490 pizzas), Mediterranean (934 pizzas), Calabrese (937 pizzas), Spinach Supreme (950 pizzas) and Soppressata (961).
 ---
 # CONCLUSION
 The outlet should capitalize on Large size Classic, Supreme, Veggie and Chicken pizzas.
